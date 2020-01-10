@@ -26,3 +26,13 @@ Also, when applying for a job in any government institution or in any programmin
 
 This reference is intended to fit all people who want to develop their software capabilities.
 So whether you are an amateur, a student or a programmer, this reference will help you to develop your ability to analyze and reach a very advanced level.
+
+## A look at the course sections and lessons:
+After a great experiment explaining the subject of algorithms and data structures for students of institutes and universities, we found that the best way to divide the course lessons is the following:
+
+- A special section for exercises in which the student is asked to draw geometric figures.
+A special section for exercises in which the student is asked to deal with numbers and texts.
+A special section for exercises in which the student is required to perform mathematical operations.
+A special section for the exercises in which the student is asked to divide the project’s classes.
+A special section for internationally known algorithms in which the student is required to conduct research.
+A special section where you will learn how to measure the performance of algorithms.
