@@ -1,4 +1,4 @@
-# The second exercise
+# The third exercise
 
 Write a program whose task is to draw the following shape with loops.
 When running the program, the user should be required
