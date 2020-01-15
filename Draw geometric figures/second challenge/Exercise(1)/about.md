@@ -1,4 +1,4 @@
-# The fifth exercise
+# Exercise(1)
 
 writing a program whose task is to draw the following figure using loops.
 
